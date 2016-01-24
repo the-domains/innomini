@@ -1,0 +1,14 @@
+layout_spectrum: 0.140519
+typography_spectrum: 0.6119052
+color:
+  saturation: 0.4182985
+  lightness: 0.2679811
+  brandStrength: 0.1601622
+  rhythmicContrast: 0.6787441
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: InNomini
